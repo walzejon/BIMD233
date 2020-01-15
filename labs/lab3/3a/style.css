@@ -1,0 +1,14 @@
+table {
+  border: 1px solid red;
+}
+
+tbody {
+  border: 1px solid green;
+}
+tfoot {
+  border: 1px solid green;
+}
+td,
+th {
+  border: 1px solid blue;
+}
