@@ -1,0 +1,8 @@
+.box {
+  border: 1px solid tan;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+body {
+  background-color: green;
+}
