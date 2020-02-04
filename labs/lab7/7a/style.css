@@ -1,0 +1,63 @@
+#table {
+  border: 1px solid black;
+  padding: 5px;
+}
+td {
+  border: 5px;
+  padding: 10px;
+}
+#swatchA9 {
+  background-color: rgba(51, 0, 111, 0.9);
+}
+#swatchA8 {
+  background-color: rgba(51, 0, 111, 0.8);
+}
+#swatchA7 {
+  background-color: rgba(51, 0, 111, 0.7);
+}
+#swatchA6 {
+  background-color: rgba(51, 0, 111, 0.6);
+}
+#swatchA5 {
+  background-color: rgba(51, 0, 111, 0.5);
+}
+#swatchA4 {
+  background-color: rgba(51, 0, 111, 0.4);
+}
+#swatchA3 {
+  background-color: rgba(51, 0, 111, 0.3);
+}
+#swatchA2 {
+  background-color: rgba(51, 0, 111, 0.2);
+}
+#swatchA1 {
+  background-color: rgba(51, 0, 111, 0.1);
+}
+
+#swatchB9 {
+  background-color: hsla(268, 100%, 22%, 0.9);
+}
+#swatchB8 {
+  background-color: hsla(268, 100%, 22%, 0.8);
+}
+#swatchB7 {
+  background-color: hsla(268, 100%, 22%, 0.7);
+}
+#swatchB6 {
+  background-color: hsla(268, 100%, 22%, 0.6);
+}
+#swatchB5 {
+  background-color: hsla(268, 100%, 22%, 0.5);
+}
+#swatchB4 {
+  background-color: hsla(268, 100%, 22%, 0.4);
+}
+#swatchB3 {
+  background-color: hsla(268, 100%, 22%, 0.3);
+}
+#swatchB2 {
+  background-color: hsla(268, 100%, 22%, 0.2);
+}
+#swatchB1 {
+  background-color: hsla(268, 100%, 22%, 0.1);
+}

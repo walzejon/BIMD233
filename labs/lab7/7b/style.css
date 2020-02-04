@@ -1,0 +1,22 @@
+td.stripes {
+  height: 44.4444444444px;
+}
+
+#flag {
+  width: 711.1111111111px;
+}
+
+#stars {
+  background-color: #002868;
+}
+
+#starcell {
+  height: 311.1111111111px;
+  width: 234.6666666667px;
+  border: 0px;
+  padding: 0px;
+}
+
+td.red_stripe {
+  background-color: red;
+}
