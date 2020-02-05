@@ -1,20 +1,25 @@
 td.stripes {
-  height: 44.4444444444px;
+  height: 30.7692307692px;
 }
 
 #flag {
   width: 711.1111111111px;
+  border-collapse: collapse;
+  box-shadow: 10px 10px 10px grey;
 }
 
 #stars {
   background-color: #002868;
+  width: 100%;
+  text-align: center;
+  padding: 8px;
+  font-size: 1.05em;
 }
 
 #starcell {
-  height: 311.1111111111px;
-  width: 234.6666666667px;
-  border: 0px;
+  width: 298.6666666667px;
   padding: 0px;
+  color: white;
 }
 
 td.red_stripe {
