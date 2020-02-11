@@ -12,16 +12,14 @@
     <title>Gardens</title>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Navbar</a>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light">
+        <img id="logo" src="https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-solid.svg" width="30" height="30" alt="">
+        <a class="navbar-brand" href="#top">Home</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Features</a>
             </li>
@@ -37,32 +35,35 @@
             <div class="form-row">
               <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
             </div>
-            <button type="submit" class="btn btn-primary" action="http://courses.washington.edu/bimd233/bimd.php"method="post">Submit</button>
+            <button type="submit" class="btn btn-primary" action="http://courses.washington.edu/bimd233/bimd.php"method="post">Login</button>
           </form>
         </div>
       </nav>
-
+    <div id="top"></div>
     <div class="jumbotron home-time" >
         <h1 class="display-4 text text-white">Gardens</h1>
         <p class="text-white">To plant a garden is to believe in tomorrow</p>
         <hr class="my-4">
         <p class="my-4">Feast your eyes on some beautiful gardens.</p>
-        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+        <a class="btn btn-primary btn-lg" href="#bottom_of_page" role="button">Learn more</a>
       </div>
 
       <div class="flex-container">
+        
         <div class="card" style="width: 18rem;">
             <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2019%2F06%2F28154901%2Fsikorski-backyard-garden-7ad60bb6.jpg&w=1200&c=sc&poi=face&q=85" class="card-img-top" alt="...">
             <div class="card-body">
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
+
           <div class="card" style="width: 18rem;">
             <img src="https://blog.gardenloversclub.com/wp-content/uploads/2019/03/4.-pink-garden-boxes.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
+
           <div class="card" style="width: 18rem;">
             <img src="https://blog.gardenloversclub.com/wp-content/uploads/2019/03/16.-townhouse-backyard.jpg" class="card-img-top" alt="...">
             <div class="card-body">
@@ -70,6 +71,7 @@
             </div>
           </div>
       </div>
+      <hr id="bottom_of_page">
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
