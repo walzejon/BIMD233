@@ -1,0 +1,40 @@
+.home-time{
+    background-size: cover;
+    background-position: center;
+}
+.my-4{
+    color: white;
+}
+
+.flex-container{
+   display: flex; /* controls items within body     */
+   flex-direction: row; /* controls the following format  */
+   align-items: center;     /* cross axix: centers demo box vertically    */
+   justify-content: space-evenly; 
+
+}
+.card{
+    padding: 1em;
+    display: flex;
+}
+#logo{
+    padding-right: 0.5em;
+    size: inherit;
+}
+.dropdown-submenu {
+    position: relative;
+  }
+  
+.dropdown-submenu a::after {
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 6px;
+    top: .8em;
+ }
+  
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-left: .1rem;
+    margin-right: .1rem;
+}
