@@ -18,8 +18,9 @@
     display: flex;
 }
 #logo{
-    padding-right: 0.5em;
+    /* padding-right: 0.5em; */
     size: inherit;
+    border-radius: 50%;
 }
 .dropdown-submenu {
     position: relative;
