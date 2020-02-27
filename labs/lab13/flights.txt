@@ -1,0 +1,5 @@
+ASA1077	A319	Washington Dulles Intl (KIAD)	San Francisco Intl (KSFO)	10:32PM	10:10PM
+ASA1088	A320	San Francisco Intl (KSFO)	Washington Dulles Intl (KIAD)	03:58PM	02:28AM
+ASA1097	A320	Washington Dulles Intl (KIAD)	Los Angeles Intl (KLAX)		08:06PM	07:24PM
+ASA11	B739	Newark Liberty Intl (KEWR)	Seattle-Tacoma Intl (KSEA)	08:00PM	07:27PM
+ASA1113	A320	Will Rogers World (KOKC)	Seattle-Tacoma Intl (KSEA)	07:40PM	07:11PM
