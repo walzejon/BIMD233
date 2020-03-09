@@ -1,0 +1,22 @@
+.container {
+    background-color: grey;
+    border: 10px solid #4b2e83;
+    width: 500px;
+  }
+  
+  .panel {
+    margin: 20px auto;
+    width: 400px;
+  }
+  
+  .winner {
+    color: green;
+  }
+  
+  h1 span {
+    background-color: black;
+    font-family: "Press Start 2P", cursive;
+    font-size: 60px;
+    color: red;
+  }
+  

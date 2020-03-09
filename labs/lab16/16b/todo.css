@@ -1,0 +1,24 @@
+.container {
+  background-color: black;
+  border: 10px solid #4b2e83;
+    width: 500px;
+}
+
+.panel {
+  margin: 20px auto;
+  width: 400px;
+}
+
+#selected {
+  background-color: #4b2e83;
+  color: white;
+}
+
+#deselected {
+  background-color: #b7a57a;
+  color: #4b2e83;
+}
+#click {
+    background-color:red;
+    color: #4b2e83;
+  }
