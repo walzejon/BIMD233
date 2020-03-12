@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  font-family: arial;
+}
+
+.container {
+  background-color: black;
+  border: 10px solid #4b2e83;
+  width: 400px;
+  margin: 20px auto;
+}
+
+.card {
+  margin: 20px auto;
+  width: 300px;
+}

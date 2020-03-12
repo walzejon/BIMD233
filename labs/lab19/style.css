@@ -1,0 +1,22 @@
+body {
+  padding: 20px;
+  background: black;
+  margin: 0 auto;
+}
+
+.container {
+  background: black;
+  border: 7px solid #4b2e83;
+  width: 900px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.btn {
+  width: 20%;
+}
+
+textarea {
+  margin-top: 10px;
+  height: 50%;
+}
