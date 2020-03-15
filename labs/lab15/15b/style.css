@@ -1,0 +1,35 @@
+body {
+  background-color: white;
+}
+.panel {
+  margin: 20px auto;
+  width: 75%;
+}
+.container {
+  background-color: black;
+  border: 10px solid #4b2e83;
+}
+#su {
+  background-color: #990000;
+  color: lightgray;
+}
+#ou {
+  background-color: #154733;
+  color: yellow;
+}
+#wsu {
+  background-color: #981e32;
+  color: #5e6a71;
+}
+#cal {
+  background-color: #081f3f;
+  color: #fcb326;
+}
+#uw {
+  background-color: #4b2e83;
+  color: #b7a57a;
+}
+#osu {
+  background-color: #252525;
+  color: #cc4500;
+}
